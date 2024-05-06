@@ -5,7 +5,8 @@ Developed a dynamic web application for sentiment analysis, leveraging machine l
 
 ![Screenshot (40)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/b438d92f-e220-405d-8f91-616e2bcd3d4a)
 
-![Screenshot (39)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/8cd28ad0-5827-4056-bc14-3eb49ad1e9a5)
+![Screenshot (37)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/cd863bbf-5b27-483d-8159-c594a95b75b0)
+
 
 ## Key Features:
 
