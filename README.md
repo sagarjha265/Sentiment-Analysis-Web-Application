@@ -2,13 +2,24 @@
 Developed a dynamic web application for sentiment analysis, leveraging machine learning and natural language processing (NLP) techniques to analyze the sentiment of text reviews in real-time. The application provides instant feedback on whether the input text conveys positive or negative sentiment, enhancing user engagement and decision-making processes.
 
 ##   UI
-![Screenshot (42)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/22cc995a-cba6-4525-bc1a-4513cb407894)
 
-## For positive  review:
-![Screenshot (45)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/ac93bb8b-f650-4802-8a8f-658aeff4e346)
+![Screenshot (46)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f4b2b187-f1db-41f8-9b70-77d98e04f895)
 
-## For negative review:
-![Screenshot (44)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/d7dcd678-def4-42f5-a258-dec63dcd89ca)
+## If users have thousands and millions of reviews of any product, they can draw a pie chart to show how many reviews are positive and how many are negative:
+
+![Screenshot (47)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/11fc5f23-e970-423a-89d9-43ccd7d97b3f)
+
+## They can find the top 100 words that are used most frequently in reviews data:
+
+![Screenshot (49)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/2ffa8884-3cc8-4b66-aab9-c858fa57a94b)
+
+
+## Generate 100 random reviews from a large dataset of reviews. after every clicking :
+
+![Screenshot (48)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f9a106db-522a-4426-bf1f-367a4ead6c8b)
+
+## for Positive Review                                                                                                                                     For Negative Review
+![Screenshot (50)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f13a0dae-7fe8-427f-8f30-55fa283ba9f1)   ![Screenshot (51)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/c807790f-8463-4209-976d-f159f10ffaeb)
 
 
 ## Key Features:
