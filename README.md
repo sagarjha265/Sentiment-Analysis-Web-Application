@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Web-Application
 Developed a dynamic web application for sentiment analysis, leveraging machine learning and natural language processing (NLP) techniques to analyze the sentiment of text reviews in real-time. The application provides instant feedback on whether the input text conveys positive or negative sentiment, enhancing user engagement and decision-making processes.
 
-##   UI
+##   User Interface(UI)
 
 ![Screenshot (46)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f4b2b187-f1db-41f8-9b70-77d98e04f895)
 
@@ -18,8 +18,11 @@ Developed a dynamic web application for sentiment analysis, leveraging machine l
 
 ![Screenshot (48)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f9a106db-522a-4426-bf1f-367a4ead6c8b)
 
-## for Positive Review                                                                                                                                     For Negative Review
-![Screenshot (50)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f13a0dae-7fe8-427f-8f30-55fa283ba9f1)   ![Screenshot (51)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/c807790f-8463-4209-976d-f159f10ffaeb)
+## For Positive Review
+![Screenshot (50)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/f13a0dae-7fe8-427f-8f30-55fa283ba9f1)   
+
+## For Negative Review
+![Screenshot (51)](https://github.com/sagarjha265/Sentiment-Analysis-Web-Application/assets/67288575/c807790f-8463-4209-976d-f159f10ffaeb)
 
 
 ## Key Features:
